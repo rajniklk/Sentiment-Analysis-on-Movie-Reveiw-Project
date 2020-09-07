@@ -16,3 +16,7 @@ In this project we'll try to develop a classification model we'll try to predict
 * Fit/train the classifier
 * Test the classifier on new data
 * Evaluate performance
+
+## Conclusion
+
+Based on text alone we correctly classified reviews as positive or negative 84.7% of the time.

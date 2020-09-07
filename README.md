@@ -1,4 +1,4 @@
-## Text Classification Project
+## Sentiment Analysis Project
 
 In this project we'll try to develop a classification model we'll try to predict the Positive/Negative labels based on text content alone.
 
